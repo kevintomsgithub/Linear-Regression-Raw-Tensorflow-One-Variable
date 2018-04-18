@@ -34,7 +34,7 @@ So, what we have with us is the training data, and testing data for validating t
 
 # Solution
 
-And thus finding the values of 'W' and 'b', and substituting them to the above equation y = W * X + b, gives the vaue of y for any substituion of 'X' in it.
+And thus finding the values of 'W' and 'b', and substituting them to the above equation y = W * X + b, gives the vaue of 'y' for any substituion of 'X' in it.
 
 # Challenge - tweek
 
