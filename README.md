@@ -38,5 +38,6 @@ And thus finding the values of 'W' and 'b', and substituting them to the above e
 
 # Challenge - tweek
 
-Tweek some parameter to obtain close results, by reducing the cost function and precising the values for Weights and Bias.
+Tweek some parameters like (learning_rate, training_epoch, optimizers, amount of train data) to obtain close results, by reducing the cost function and precising the values for Weights and Bias, that makes the program more optimized.. and keep in mind, this configurations would keep changing depending on the problem, train dataset etc.
+
 Please keep me posted for any doubts and updates.
