@@ -15,19 +15,19 @@ This is a simple tutorial program which has been developed, focusing on those wh
 
 # Training data
 
-- when x = 1 some calculation done on 'x' and 'y' was predicted as 2. !!
-- when x = 2 some calculation done on 'x' and 'y' was predicted as 3. !!
-- when x = 3 some calculation done on 'x' and 'y' was predicted as 4. !!
+- when x = 1 some calculation done on 'x', and 'y' was predicted as 2. !!
+- when x = 2 some calculation done on 'x', and 'y' was predicted as 3. !!
+- when x = 3 some calculation done on 'x', and 'y' was predicted as 4. !!
 - .. ..
 - .. ..
 
 so from the above its clear that adding 1 to 'x's gives 'y's ie,
 when x=1,
 -  y = 1 + 1 = 2,
--  y = m * x + c
--  x = 1
--  m = 1
--  c = 1
+-  y = m * x + c,
+-  x = 1,
+-  m = 1,
+-  c = 1,
 -  therefore, y = 1 * 1 + 1 = 2
 
 So, what we have with us is the training data, and testing data for validating the training, the aim of this program is to find the values for 'm' and 'c' which is 'W'(weight) and 'b'(bias) respectively.
