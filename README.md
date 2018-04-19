@@ -1,4 +1,4 @@
-# Linear-Regression-Raw-Tensorflow-With-One-variable
+# Linear-Regression-Raw-Tensorflow-With-One-Variable
 
 Builds a simple raw linear regression model with basic tensorflow
 
