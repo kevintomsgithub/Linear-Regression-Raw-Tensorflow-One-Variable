@@ -11,7 +11,7 @@ Builds a simple raw linear regression model with basic tensorflow
 # Overview
 
 This is a simple tutorial program which has been developed, focusing on those who are beginners to Machine Learning and Tensorflow, the code snippet has been commented with lots of information.. please go through it..
-- A bit of a recall, during school times, in Linear algebra we have come accross the mathematical equation for a straight line ie, y = m*x + c, we work around with the same formula in this program too..
+- A bit of a recall, during school times, in Linear algebra we have come accross the mathematical equation for a straight line ie, y = m\*x + c, we work around with the same formula in this program too..
 
 # Training data
 
