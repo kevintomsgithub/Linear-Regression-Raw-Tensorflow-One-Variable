@@ -36,8 +36,8 @@ So, what we have with us is the training data, and testing data for validating t
 
 And thus finding the values of 'W' and 'b', and substituting them to the above equation y = W * X + b, gives the vaue of 'y' for any substituion of 'X' in it.
 
-# Challenge - tweek
+# Challenge - tweak
 
-Tweek some parameters like (learning_rate, training_epoch, optimizers, amount of train data) to obtain close results, by reducing the cost function and precising the values for Weights and Bias, that makes the program more optimized.. and keep in mind, this configurations would keep changing depending on the problem, train dataset etc.
+Tweak some parameters like (learning_rate, training_epoch, optimizers, amount of train data) to obtain close results, by reducing the cost function and precising the values for Weights and Bias, that makes the program more optimized.. and keep in mind, this configurations would keep changing depending on the problem, train dataset etc.
 
 Please keep me posted for any doubts and updates.
